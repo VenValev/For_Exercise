@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Histogram", "13_Histogra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_CleverLily", "14_CleverLily\14_CleverLily.csproj", "{1C9C4AEB-670F-4EBA-9CE5-CFC6C5AD2DEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Salary", "15_Salary\15_Salary.csproj", "{A7F0317F-7957-400D-837E-7E80B186AB84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1C9C4AEB-670F-4EBA-9CE5-CFC6C5AD2DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C9C4AEB-670F-4EBA-9CE5-CFC6C5AD2DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C9C4AEB-670F-4EBA-9CE5-CFC6C5AD2DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F0317F-7957-400D-837E-7E80B186AB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F0317F-7957-400D-837E-7E80B186AB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F0317F-7957-400D-837E-7E80B186AB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F0317F-7957-400D-837E-7E80B186AB84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
