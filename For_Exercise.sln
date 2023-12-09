@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Oscars", "16_Oscars\16_O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_TreckingMania", "17_TreckingMania\17_TreckingMania.csproj", "{DFD02150-9BE1-4062-A675-BB7B7D8CD148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_TenisRanklist", "18_TenisRanklist\18_TenisRanklist.csproj", "{501D7A60-13F0-42A2-887F-48F56696971A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{DFD02150-9BE1-4062-A675-BB7B7D8CD148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD02150-9BE1-4062-A675-BB7B7D8CD148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD02150-9BE1-4062-A675-BB7B7D8CD148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501D7A60-13F0-42A2-887F-48F56696971A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501D7A60-13F0-42A2-887F-48F56696971A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501D7A60-13F0-42A2-887F-48F56696971A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501D7A60-13F0-42A2-887F-48F56696971A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
