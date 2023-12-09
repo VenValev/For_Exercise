@@ -1,0 +1,1 @@
+Exercise of "FOR" cicles in C# for Softuni Course.
