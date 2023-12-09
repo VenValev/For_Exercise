@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_NumSeq", "8_NumSeq\8_NumS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_LeftRightSum", "9_LeftRightSum\9_LeftRightSum.csproj", "{66B22356-10CE-4F1E-BF69-45ECADCD4C23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_OddEvenSum", "10_OddEvenSum\10_OddEvenSum.csproj", "{9A8C206B-4F55-4433-8B45-441C1721A182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{66B22356-10CE-4F1E-BF69-45ECADCD4C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B22356-10CE-4F1E-BF69-45ECADCD4C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B22356-10CE-4F1E-BF69-45ECADCD4C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8C206B-4F55-4433-8B45-441C1721A182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8C206B-4F55-4433-8B45-441C1721A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8C206B-4F55-4433-8B45-441C1721A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8C206B-4F55-4433-8B45-441C1721A182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
