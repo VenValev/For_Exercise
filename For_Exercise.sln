@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_NumEnd7", "11_NumEnd7\11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_HalfNumElement", "12_HalfNumElement\12_HalfNumElement.csproj", "{884D3518-3CD1-426A-9F74-65F1A7E81DF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Histogram", "13_Histogram\13_Histogram.csproj", "{2AF75074-C460-4436-B54C-9274C6E85105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{884D3518-3CD1-426A-9F74-65F1A7E81DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{884D3518-3CD1-426A-9F74-65F1A7E81DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{884D3518-3CD1-426A-9F74-65F1A7E81DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF75074-C460-4436-B54C-9274C6E85105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF75074-C460-4436-B54C-9274C6E85105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF75074-C460-4436-B54C-9274C6E85105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF75074-C460-4436-B54C-9274C6E85105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
